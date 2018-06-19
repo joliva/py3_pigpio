@@ -1,2 +1,2 @@
-sudo docker run -d --privileged -p 8888:8888 --rm --name pigpiod py3-pigpio 
+sudo docker run -d --privileged -p 8888:8888 --rm --name pigpiod joliva/py3_pigpio:latest 
 

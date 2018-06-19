@@ -1,1 +1,1 @@
-docker build -t py3_pigpio .
+docker build -t joliva/py3_pigpio:latest .
